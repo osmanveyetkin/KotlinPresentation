@@ -1,0 +1,5 @@
+{
+  "name": "Gemini ile Kotlin Sunum Asistanı",
+  "description": "Öğrencilerin Kotlin programlama dili hakkında sunum hazırlamalarına yardımcı olmak için Gemini API'sini kullanan bir sohbet uygulaması. Uygulama, Java bilgisi olan öğrencilere yönelik olarak Kotlin'in temellerini, kullanım alanlarını ve kod örneklerini sunar.",
+  "requestFramePermissions": []
+}
